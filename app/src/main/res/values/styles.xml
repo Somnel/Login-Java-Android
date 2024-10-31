@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="loginInfo">
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:textColor">@color/loginLink</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="inicioHelper" parent="@style/loginInfo">
+        <item name="android:textColor">@color/inicioHelper</item>
+    </style>
+
+    <style name="tituloPagina">
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="cadastroInput">
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:ems">16</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+
+    <style name="botaoPagina">
+        <item name="android:layout_marginStart">100dp</item>
+        <item name="android:layout_marginEnd">100dp</item>
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="inicioTitulo">
+        <item name="android:fontFamily">@font/roboto_mono_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="inicioBtn">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

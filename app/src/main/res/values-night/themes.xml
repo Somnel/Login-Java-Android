@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginJava" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#ffffff</item>
+        <item name="android:windowBackground">#222244</item>
+        <item name="colorPrimaryDark">#000022</item>
+    </style>
+</resources>
